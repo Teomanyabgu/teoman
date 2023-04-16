@@ -1,2 +1,11 @@
 # teoman
 Yazılım örenme
+
+
+
+  
+
+
+
+
+
