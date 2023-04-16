@@ -1,0 +1,2 @@
+# teoman
+Yazılım örenme
